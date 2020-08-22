@@ -1,3 +1,3 @@
-# React + Redux boilderplate to Front-End SPA's
+# Live chat with React and Redux
 
-## This repo has React, Redux, React Router, Eslint, Webpacker and other necessary stuff pre-configured to create Front-end Single Page Applications.
+## SPA app that to Live Chat using Le Wagon chat API.
